@@ -1,0 +1,6 @@
+{
+  "name": "failing-students",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
